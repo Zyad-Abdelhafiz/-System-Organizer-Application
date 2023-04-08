@@ -15,9 +15,9 @@ Application to organize people registration, which gets input from students, pro
 ## How The application works
 - Login page: it inquires to have pre-made password
 - Switch Page: it gets you to the type of the input you require
-- Student Page: it has 5 diffrent types of inputs student name, student number, email, data, city
-- professor Page: it has 6 diffrent types of inputs student name, student number, email, salary, data, city
-- employee Page: it has 6 diffrent types of inputs student name, student number, email, salary, data, city
+- Student Page: it has 5 diffrent types of inputs student name, student number, email, date, city
+- professor Page: it has 6 diffrent types of inputs student name, student number, email, salary, date, city
+- employee Page: it has 6 diffrent types of inputs student name, student number, email, salary, date, city
 
 
 ## System Organizer Application Keywords
