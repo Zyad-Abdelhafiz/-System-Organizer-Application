@@ -4,8 +4,7 @@
 
 <h1 align="center">System Organizer</h1>
 <p align="center">
- <img src="https://i.ibb.co/WPJC1RP/zyad-basic-file.png" alt="Logo" width="250"/> 
- <img src="https://i.ibb.co/Gcv96xC/Untitled-design-21.png" width="200"/>
+ <img src="https://i.ibb.co/Gcv96xC/Untitled-design-21.png" width="250"height="250"/>
     <p align="center">   
 Application to organize people registration, which gets input from students, professors, and employees
     </p>
